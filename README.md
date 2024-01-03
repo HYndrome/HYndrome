@@ -2,6 +2,7 @@
 
 ## Be proud, Try, Enjoy, and Stay safe
 
-* A dumb newbie developer from South Korea
-* [Baek Joon Gold 3](https://solved.ac/profile/hyndrome) keep growing! 🏋️‍♂️
-* Reach me at hyndrome@gmail.com
+## Love
+* Python Django
+* JavaScript TypeScript React
+* C
